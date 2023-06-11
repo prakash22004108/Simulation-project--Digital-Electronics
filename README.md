@@ -38,4 +38,4 @@ module parity (
 endmodule
 ```
 
-This project is done by sarvesh.s  (212222230135)
+This project is done by prakash.R  (212222240074)
